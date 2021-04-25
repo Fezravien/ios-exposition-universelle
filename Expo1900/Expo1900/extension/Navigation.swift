@@ -1,5 +1,5 @@
 //
-//  Navigaation.swift
+//  Navigation.swift
 //  Expo1900
 //
 //  Created by 윤재웅 on 2021/04/21.
