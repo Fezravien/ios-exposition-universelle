@@ -42,6 +42,11 @@ final class ExpoViewController: UIViewController, JsonDecoding {
     }
     
     override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+
+        let orientaion = UIDeviceOrientation.portrait.rawValue
+        UIDevice.current.setValue(orientaion, forKey: "orientation")
+        
         self.navigationController?.navigationBar.isHidden = true
     }
     

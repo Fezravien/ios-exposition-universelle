@@ -20,7 +20,7 @@
 		BAA9FD62261DCA0A000EB716 /* KoreaDetailEntryViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BAA9FD60261DCA0A000EB716 /* KoreaDetailEntryViewController.xib */; };
 		BAA9FD66261DF058000EB716 /* Alter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA9FD65261DF058000EB716 /* Alter.swift */; };
 		BAD85BD026319726000178D7 /* DecodeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD85BCF26319726000178D7 /* DecodeData.swift */; };
-		BAF3B100263065A6006BD9DB /* Navigaation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF3B0FF263065A6006BD9DB /* Navigaation.swift */; };
+		BAF3B100263065A6006BD9DB /* Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF3B0FF263065A6006BD9DB /* Navigation.swift */; };
 		C79FF4B52589F401005FB0FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C79FF4B42589F401005FB0FD /* AppDelegate.swift */; };
 		C79FF4B72589F401005FB0FD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C79FF4B62589F401005FB0FD /* SceneDelegate.swift */; };
 		C79FF4BC2589F401005FB0FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C79FF4BA2589F401005FB0FD /* Main.storyboard */; };
@@ -54,7 +54,7 @@
 		BAA9FD60261DCA0A000EB716 /* KoreaDetailEntryViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = KoreaDetailEntryViewController.xib; sourceTree = "<group>"; };
 		BAA9FD65261DF058000EB716 /* Alter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alter.swift; sourceTree = "<group>"; };
 		BAD85BCF26319726000178D7 /* DecodeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodeData.swift; sourceTree = "<group>"; };
-		BAF3B0FF263065A6006BD9DB /* Navigaation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigaation.swift; sourceTree = "<group>"; };
+		BAF3B0FF263065A6006BD9DB /* Navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigation.swift; sourceTree = "<group>"; };
 		C79FF4B12589F401005FB0FD /* Expo1900.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Expo1900.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C79FF4B42589F401005FB0FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C79FF4B62589F401005FB0FD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -152,7 +152,7 @@
 			isa = PBXGroup;
 			children = (
 				BAA9FD65261DF058000EB716 /* Alter.swift */,
-				BAF3B0FF263065A6006BD9DB /* Navigaation.swift */,
+				BAF3B0FF263065A6006BD9DB /* Navigation.swift */,
 			);
 			path = extension;
 			sourceTree = "<group>";
@@ -312,7 +312,7 @@
 				BAA9FD54261DA1DB000EB716 /* KoreaEntryViewController.swift in Sources */,
 				C79FF4B72589F401005FB0FD /* SceneDelegate.swift in Sources */,
 				BAA9FD12261AD96A000EB716 /* StateEntry.swift in Sources */,
-				BAF3B100263065A6006BD9DB /* Navigaation.swift in Sources */,
+				BAF3B100263065A6006BD9DB /* Navigation.swift in Sources */,
 				BAA9FD5A261DA317000EB716 /* KoreaEntryTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
