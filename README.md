@@ -10,11 +10,11 @@
 
 ### Index
 
-- [Simulator](#Simulator)
-- [구현 및 기능](#구현 및 기능)
-- [설계](#설계 및 구현)
-- [Trouble Shooting](#Trouble Shooting)
-- [학습한 내용](#학습한 내용)
+- [Simulator](#simulator)
+- [구현 및 기능](#구현-및-기능)
+- [설계](#설계)
+- [Trouble Shooting](#trouble-shooting)
+- [학습한 내용](#학습한-내용)
 
 
 <br/>
@@ -31,9 +31,9 @@
 
 ## 구현 및 기능
 
-- [Page 1 - 메인](#메인 페이지)
-- [Page 2 - 한국의 출품작](#한국의 출품작 페이지)
-- [Page 3 - 한국의 출품작 세부내용](#출품작 상세내용 페이지)
+- [Page 1 - 메인](#메인-페이지)
+- [Page 2 - 한국의 출품작](#한국의-출품작-페이지)
+- [Page 3 - 한국의 출품작 세부내용](#출품작-상세내용-페이지)
 - [오토레이아웃](#오토레이아웃)
 
 <br/>
@@ -84,14 +84,15 @@
 
 ## 설계
 
-- [UML](#UML)
-- [파일 구조](#파일 구조)
+- [UML](#uml)
+- [파일 구조](#파일-구조)
 
 <br/>
 
 ### UML
 
 <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq42h135nbj31mn0u0gyq.jpg" alt="만국기 UML" style="zoom:100%;" /> 
+**잘 안보이시면 클릭해주세요!!**
 
 <br/>
 
@@ -180,6 +181,7 @@ JSON 파싱을 위한 모델에 맞지 않는 구조가 들어왔을때 `이니�
 이렇게 처리함으로써 오류에 의해 앱이 강제 종료되는 상황을 막아 가용성을 높일 수 있다고 생각했고, 뷰 컨트롤러의 작업을 줄일 수 있었다.
 
 <br/>
+
 ---
 
 <br/>
@@ -240,7 +242,9 @@ static func initDetailEntryData(_ data: StateEntry) -> KoreaDetailEntryViewContr
 이런 상황은 어떠한 곳에서도 바로 띄워줄 필요가 있는 화면에서는 특히 더 필요한 처리인 것 같다!
 
 <br/>
+
 ---
+
 <br/>
 
 ### AppDelegate 접근문제 - 화면 모드, 데이터 저장
@@ -361,7 +365,6 @@ override func viewWillAppear(_ animated: Bool) {
 <br/>
 
 ---
-
 
 <br/>
 
