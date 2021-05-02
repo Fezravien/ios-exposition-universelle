@@ -16,13 +16,14 @@
 - [Trouble Shooting](#Trouble Shooting)
 - [학습한 내용](#학습한 내용)
 
+
 <br/>
 
 ---
 
 ## Simulator
 
-<img src="https://user-images.githubusercontent.com/44525561/116815883-9bac3680-ab9a-11eb-84a5-de92fbdc0ea9.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01 00 02" style="zoom:67%;" /> <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3dbfhbdkg30880hsqv8.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 00.33.00" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/44525561/116815883-9bac3680-ab9a-11eb-84a5-de92fbdc0ea9.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01 00 02" width="25%" /> <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3dbfhbdkg30880hsqv8.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 00.33.00" width="25%" />
 
 <br/>
 
@@ -39,7 +40,7 @@
 
 ### 메인 페이지
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3dd9huitg30880hs7wj.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01.00.02" style="zoom:75%;" /> 
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3dd9huitg30880hs7wj.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01.00.02" width="20%" /> 
 
 - 상하 스크롤을 이용해 파리 만국박람회 1900의 `방문객`, `개최지`, `개최 기간`, `내용`을 확인 할 수 있다.
 - 최하단에 `한국 출풀작 보러가기` 버튼으로 두 번째 페이지인 한국의 출품작으로 이동할 수 있다.
@@ -49,7 +50,7 @@
 
 ### 한국의 출품작 페이지
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3dfq34ewg30880hsb29.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01.02.33" style="zoom:75%;" /> <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3ervb563g30880hshdt.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01.48.25" style="zoom:75%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3dfq34ewg30880hsb29.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01.02.33" width="20%" /> <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3ervb563g30880hshdt.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01.48.25" width="20%" />
 
 - 상하 스크롤을 이용해 한국의 출품작 목록을 확인할 수 있다.
 - 각각의 출품작에는 `이미지`, `제목`, `요약된 내용`을 확인할 수 있다.
@@ -59,7 +60,7 @@
 
 ### 출품작 상세내용 페이지
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3eseq2xhg30880hskjl.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01.48.41" style="zoom:75%;" /> <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3etaebe6g30880hskjl.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01.50.08" style="zoom:75%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3eseq2xhg30880hskjl.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01.48.41" width="20%" /> <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq3etaebe6g30880hskjl.gif" alt="Simulator Screen Recording - iPhone 12 Pro - 2021-05-02 at 01.50.08" width="20%" />
 
 - 상하 스크롤을 이용해 한국의 출품작 상세내용 페이지의 제목, 이미지, 내용을 확인할 수 있다.
 - 화면 모드 - all
@@ -71,11 +72,11 @@
 - 모든 아이폰 기기에 맞게 오토레이아웃 적용 
 - Dynamic Type 적용
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq4fun7srfj30u01sxduj.jpg" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-05-02 at 00.34.59" style="zoom:20%;" /> <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq4fupzfq4j31720hwq4a.jpg" alt="스크린샷 2021-05-02 오전 12.35.58" style="zoom:35%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq4fun7srfj30u01sxduj.jpg" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-05-02 at 00.34.59" width="20%" /> <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq4fupzfq4j31720hwq4a.jpg" alt="스크린샷 2021-05-02 오전 12.35.58" width="50%" />
 
 
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq4fuvre9wj30u01sxgx5.jpg" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-05-02 at 00.35.40" style="zoom:20%;" /> <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq4fv0fp14j31720hw75m.jpg" alt="스크린샷 2021-05-02 오전 12.37.01" style="zoom:35%;" /> 
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq4fuvre9wj30u01sxgx5.jpg" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-05-02 at 00.35.40" width="20%" /> <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq4fv0fp14j31720hw75m.jpg" alt="스크린샷 2021-05-02 오전 12.37.01" width="50%" /> 
 
 <br/>
 
@@ -98,7 +99,7 @@
 
 - MVC
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq46mswmw7j30wc0u0wio.jpg" alt="만국기 파일구조" style="zoom:50%;" /> 
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gq46mswmw7j30wc0u0wio.jpg" alt="만국기 파일구조" width="55%" /> 
 
 <br/>
 
@@ -179,7 +180,7 @@ JSON 파싱을 위한 모델에 맞지 않는 구조가 들어왔을때 `이니�
 이렇게 처리함으로써 오류에 의해 앱이 강제 종료되는 상황을 막아 가용성을 높일 수 있다고 생각했고, 뷰 컨트롤러의 작업을 줄일 수 있었다.
 
 <br/>
----![image](https://user-images.githubusercontent.com/44525561/116816312-69033d80-ab9c-11eb-8eb4-374f11c46e3d.gif)
+---
 
 <br/>
 
@@ -358,7 +359,9 @@ override func viewWillAppear(_ animated: Bool) {
 데이터 저장을 여기서 시도한 이유는 화면이 생성될 때 마다 지속적으로 JSON 파싱을 수행하는 것이 비효율적이지 않을까 생각했었다. 하지만 좀더 넓게 생각했을때 만약 중간에 데이터의 변경이 존재한다면 업데이트에 문제가 발생할 것이다. 또한, 화면의 모든 데이터를 메모리에 계속 가지고 있게 되고 이러한 측면에서 클아이언트의 데이터 보다는 서버의 DB가 상대적으로 신뢰도가 높으므로 각각의 뷰 컨트롤러에서 생성하고 소멸하도록 수정했다.
 
 <br/>
+
 ---
+
 
 <br/>
 
@@ -400,7 +403,8 @@ class / struct 를 만들어서 json 파싱을 하는 객체를 만드는 것 �
 
 <br/>
 
----
+--- 
+
 
 ## 학습한 내용 
 
