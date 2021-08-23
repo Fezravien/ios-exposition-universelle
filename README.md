@@ -7,6 +7,19 @@
 ### 👥 개인
 
 ---
+### PR
+
+
+|                                                              | 내용                          |
+| ------------------------------------------------------------ | ----------------------------- |
+| [Step1](https://github.com/yagom-academy/ios-exposition-universelle/pull/29) | 모델 타입 구현                |
+| [Step2](https://github.com/yagom-academy/ios-exposition-universelle/pull/42) | UI 구현                       |
+| [Step3](https://github.com/yagom-academy/ios-exposition-universelle/pull/62) | 오토레이아웃 적용 및 리펙토링 |
+
+
+
+
+---
 
 ### Index
 
